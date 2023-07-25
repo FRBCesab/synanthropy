@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# synanthropy <img src="man/figures/package-sticker.png" align="right" style="float:right; height:120px;"/>
+# synanthropy
 
 <!-- badges: start -->
 <!-- badges: end -->
