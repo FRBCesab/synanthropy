@@ -16,3 +16,19 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
+Depends: 
+    ggplot2
+Imports: 
+    CGPfunctions,
+    dplyr,
+    here,
+    ks,
+    magrittr,
+    pkgload,
+    raster,
+    remotes,
+    rstatix,
+    scales,
+    sf,
+    tabularaster,
+    tibble

@@ -2,3 +2,5 @@
 ^README\.Rmd$
 ^README\.html$
 ^synanthropy\.Rproj$
+^\.Rproj\.user$
+^make\.R$
