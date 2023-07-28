@@ -6,36 +6,17 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of the R package `synanthropy` is to **{{ PLEASE ADD A FEW
-LINES }}**
+This repository is a temporary patch for
+<https://github.com/lomorel/SynAnthrop>. It will be merged in the
+future.
 
-## Installation
+## Usage
 
-You can install the development version from
-[GitHub](https://github.com/) with:
-
-``` r
-# install.packages("remotes")
-remotes::install_github("frbcesab/synanthropy")
-```
-
-Then you can attach the package `synanthropy`:
-
-``` r
-library("synanthropy")
-```
-
-## Overview
-
-Here is an overview of `synanthropy` content: **{{ PLEASE ADD A FEW
-LINES }}**
-
-## Citation
-
-Please cite this package as:
-
-> Casajus Nicolas (2023) synanthropy: An R package to **{{ TITLE }}**. R
-> package version 0.0.0.9000.
+1.  Clone this repository
+2.  Create the folder `data/`
+3.  Put the CartNat layers inside
+4.  Put the STOC csv also inside
+5.  Run the analysis by opening the `make.R`
 
 ## Code of Conduct
 
